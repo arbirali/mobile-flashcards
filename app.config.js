@@ -5,6 +5,6 @@ export default {
     image:
       "https://github.com/expo/expo/blob/master/templates/expo-template-blank/assets/splash.png?raw=true",
     resizeMode: "contain",
-    backgroundColor: "#ffffff",
+    backgroundColor: "#000000",
   },
 };
