@@ -23,5 +23,5 @@ This example shows you how to create an animated splash screen for your app. It 
 - [Expo Assets guide](https://docs.expo.io/versions/latest/guides/assets/)
 - [Expo Splash Screen guide](https://docs.expo.io/versions/latest/guides/splash-screens/)
 
-## 📝 Notes
+## 📝 Testing
 Manual testing is done on Android and Web using expo
